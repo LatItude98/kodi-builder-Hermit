@@ -74,26 +74,20 @@
   <files>
     <default pathversion="1"></default>
 
-    <!-- ══ ADDON REPOSITORY URLS ══════════════════════════════════════════
-         Add the URL of any addon repo zip or repo folder here so it shows
-         up in File Manager ready to install from.
-         Examples shown below — uncomment the ones you want.           -->
-
-    <!-- Kodi official repo mirror (useful reference)
     <source>
       <name>Kodi Omega Repo</name>
       <path pathversion="1">https://mirrors.kodi.tv/addons/omega/</path>
       <allowsharing>true</allowsharing>
     </source>
-    -->
+    
 
-    <!-- Generic HTTP addon repo — replace URL and name
+
     <source>
-      <name>My Addon Repo</name>
-      <path pathversion="1">https://example.com/kodi-repo/</path>
+      <name>Doomzday</name>
+      <path pathversion="1">https://doomzdayteam.github.io/doomzday/</path>
       <allowsharing>true</allowsharing>
     </source>
-    -->
+
 
     <!-- ══ NETWORK / SMB SHARES ═══════════════════════════════════════════ -->
 
